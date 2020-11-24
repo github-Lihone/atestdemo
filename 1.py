@@ -3,3 +3,4 @@
 '''
 print('hello')
 print('world')
+hi=input('Hi, little boy\n')
